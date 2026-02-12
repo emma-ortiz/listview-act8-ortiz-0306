@@ -1,16 +1,6 @@
-# myapp
+<img width="515" height="513" alt="image" src="https://github.com/user-attachments/assets/0a96df47-a36f-4113-83bf-eb9d34b3ce80" />
 
-A new Flutter project.
 
-## Getting Started
+listiview en flutter android 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="631" height="858" alt="image" src="https://github.com/user-attachments/assets/7d5b7786-096e-400c-88b0-9bd4f77eb059" />
